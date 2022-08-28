@@ -55,6 +55,13 @@ Input/Output devices/events.
 
 ## Hardware
 
+- Motherboard
+- CPU
+- GPU
+- RAM
+- SSD
+- HardDisk
+
 ---
 
 ## Software
